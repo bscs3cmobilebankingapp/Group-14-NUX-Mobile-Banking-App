@@ -4,10 +4,10 @@ Final project in the Subject Mobile Application Development
 
 # Overview
 
-This application was created on Android Studio using Java Programming Language for Android. Back-End used were Firebase Firestore Database. The app displays real-time status on the firebase.
+This app was written with Android Studio and the Java Programming Language for Android. Firebase Firestore Database was utilized as the back-end. The app provides real-time firebase status.
 
 # Features
-The following Screenshots below compromises the entirety of this Mobile Banking Application Project.
+The screen shots below jeopardize the complete Mobile Banking Application Project.
 1. Create New account with email
 2. Saved user Data with FireStore
 4. Forgot Password options
