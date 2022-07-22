@@ -19,9 +19,9 @@ The screen shots below jeopardize the complete Mobile Banking Application Projec
 # Verify User Email Using OTP
 
 # Requirements
-*Android Studio 4.0 or higher (installed on a Mac, Linux, or Windows machine)
-*Android device in developer mode with USB debugging enabled
-*USB cable (to connect Android device to your computer)
+* Android Studio 4.0 or higher (installed on a Mac, Linux, or Windows machine)
+* Android device in developer mode with USB debugging enabled
+* USB cable (to connect Android device to your computer)
 or Use the configured specific Mobile device Android version of Android Studio Emulator
 
 # Demo Video
