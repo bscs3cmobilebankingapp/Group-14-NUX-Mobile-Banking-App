@@ -28,10 +28,10 @@ or Use the configured specific Mobile device Android version of Android Studio E
 Click the link to watch
 
 # Researcher/Developer:
-*Brando Jurada
-*Micaela Andrea Quinones
-*Julyd Ann Cortina
-*Hanna Mhie Silvestre
+* Brando Jurada
+* Micaela Andrea Quinones
+* Julyd Ann Cortina
+* Hanna Mhie Silvestre
 
 # Subject:
 Mobile Application Development
