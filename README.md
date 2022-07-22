@@ -13,6 +13,8 @@ The screen shots below jeopardize the complete Mobile Banking Application Projec
 2. Create account user data saved with Firestore
 3. Forgot Password options
 4. Verify User Email Using OTP
+5. Access Dashboard
+6. Logout
 
 # Login or Sign Up Option
 ![1_Welcome](https://user-images.githubusercontent.com/109775560/180479539-480f5972-ff8c-49e5-8e4b-e3cda0a5a4eb.jpg)
