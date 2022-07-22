@@ -8,30 +8,30 @@ This app was written with Android Studio and the Java Programming Language for A
 
 # Features
 The screen shots below jeopardize the complete Mobile Banking Application Project.
-1.Create New account with email
-2.Saved user Data with FireStore
-4.Forgot Password options
-5.Verify User Email Using OTP
+1. Create New account with email
+2. Saved user Data with FireStore
+3. Forgot Password options
+4. Verify User Email Using OTP
 
 # Create New account with email
-#Saved user Data with FireStore
-#Forgot Password options
-#Verify User Email Using OTP
+# Saved user Data with FireStore
+# Forgot Password options
+# Verify User Email Using OTP
 
 # Requirements
-Android Studio 4.0 or higher (installed on a Mac, Linux, or Windows machine)
-Android device in developer mode with USB debugging enabled
-USB cable (to connect Android device to your computer)
+*Android Studio 4.0 or higher (installed on a Mac, Linux, or Windows machine)
+*Android device in developer mode with USB debugging enabled
+*USB cable (to connect Android device to your computer)
 or Use the configured specific Mobile device Android version of Android Studio Emulator
 
 # Demo Video
 Click the link to watch
 
 # Researcher/Developer:
-Brando Jurada
-Micaela Andrea Quinones
-Julyd Ann Cortina
-Hanna Mhie Silvestre
+*Brando Jurada
+*Micaela Andrea Quinones
+*Julyd Ann Cortina
+*Hanna Mhie Silvestre
 
 # Subject:
 Mobile Application Development
