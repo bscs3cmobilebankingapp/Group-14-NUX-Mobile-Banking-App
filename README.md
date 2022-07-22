@@ -8,10 +8,10 @@ This app was written with Android Studio and the Java Programming Language for A
 
 # Features
 The screen shots below jeopardize the complete Mobile Banking Application Project.
-1. Create New account with email
-2. Saved user Data with FireStore
-4. Forgot Password options
-5. Verify User Email Using OTP
+1.Create New account with email
+2.Saved user Data with FireStore
+4.Forgot Password options
+5.Verify User Email Using OTP
 
 # Create New account with email
 #Saved user Data with FireStore
